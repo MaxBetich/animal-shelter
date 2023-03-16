@@ -1,9 +1,10 @@
 img {
-  margin: auto;
-  width: 30%;
+  margin: 5%;
+  width: 45%;
 }
-.column {
-  text-align: center;
+
+.column  {
+  float: right;
   width: 18%;
-  margin-left: 2%;
+  margin: 5%;
 }
