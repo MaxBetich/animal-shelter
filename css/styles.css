@@ -1,10 +1,30 @@
+h1 {
+  text-align: center;
+}
+
 img {
-  margin: 5%;
+  margin-left: 8%;
+  margin-top: 4%;
   width: 45%;
+}
+
+.centered-image {
+  width: 50%;
+  height: auto;
+  margin: auto;
+  display: block;
 }
 
 .column  {
   float: right;
   width: 18%;
-  margin: 5%;
+  margin-right: 8%;
+  margin-top: 4%;
+  max-height: fit-content;
+}
+
+.column a {
+  font-style: italic;
+  color: aquamarine;
+  background-color: black;
 }
